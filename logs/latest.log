@@ -1,8 +1,31 @@
-[00:08:22] [Server thread/INFO]: TavoTevas lost connection: Disconnected
-[00:08:22] [Server thread/INFO]: TavoTevas left the game
-[00:08:54] [Server thread/INFO]: Mozes_banga lost connection: Disconnected
-[00:08:54] [Server thread/INFO]: Mozes_banga left the game
-[00:08:55] [Server thread/INFO]: Woyken lost connection: Disconnected
-[00:08:55] [Server thread/INFO]: Woyken left the game
-[00:09:07] [Server Shutdown Thread/INFO]: Stopping server
-[00:09:07] [Server Shutdown Thread/INFO]: Saving players
+[21:05:02] [Server thread/INFO]: Loading properties
+[21:05:02] [Server thread/INFO]: Default game type: SURVIVAL
+[21:05:02] [Server thread/INFO]: Generating keypair
+[21:05:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:05:03] [Server thread/INFO]: Using default channel type
+[21:05:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:05:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:05:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:05:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:05:04] [Server thread/INFO]: Preparing level "world"
+[21:05:04] [Server thread/INFO]: Loaded 488 advancements
+[21:05:04] [Server thread/INFO]: Preparing start region for level 0
+[21:05:06] [Server thread/INFO]: Preparing spawn area: 0%
+[21:05:07] [Server thread/INFO]: Preparing spawn area: 10%
+[21:05:08] [Server thread/INFO]: Preparing spawn area: 26%
+[21:05:09] [Server thread/INFO]: Preparing spawn area: 49%
+[21:05:10] [Server thread/INFO]: Done (6,196s)! For help, type "help" or "?"
+[21:05:44] [Server thread/INFO]: TavoTevas[/127.0.0.1:55835] logged in with entity id 606 at (225.75887739261665, 70.0, 225.49301283472295)
+[21:05:44] [Server thread/INFO]: TavoTevas joined the game
+[21:05:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2293ms behind, skipping 45 tick(s)
+[21:05:55] [Server thread/WARN]: TavoTevas moved too quickly! -0.3356552465814957,-2.5813359922251635,-9.97699509691688
+[21:06:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4947ms behind, skipping 98 tick(s)
+[21:06:13] [Server thread/WARN]: TavoTevas moved too quickly! 9.912668855216111,-1.5061351021062137,-0.4412938728009408
+[21:06:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2002ms behind, skipping 40 tick(s)
+[21:45:51] [Server thread/INFO]: TavoTevas lost connection: Disconnected
+[21:45:51] [Server thread/INFO]: TavoTevas left the game
+[21:56:55] [Server thread/INFO]: TavoTevas[/192.168.0.173:55911] logged in with entity id 71262 at (237.30000001192093, 68.0, 228.95612965608876)
+[21:56:56] [Server thread/INFO]: TavoTevas joined the game
+[21:57:50] [Server thread/INFO]: TavoTevas lost connection: Disconnected
+[21:57:50] [Server thread/INFO]: TavoTevas left the game
+[23:16:20] [Server Shutdown Thread/INFO]: Stopping server
